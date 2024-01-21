@@ -1,4 +1,0 @@
-pip install Flask-SQLAlchemy
-import sqlite3
-import os
-pip install Flask Flask-JWT-Extended
